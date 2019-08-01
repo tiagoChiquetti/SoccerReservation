@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerReservation.UI", "src\SoccerReservation.UI\SoccerReservation.UI.csproj", "{0CE1270A-ED04-4BC2-BCBC-58188BEEFA3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerReservation.DATA.EF", "src\SoccerReservation.DATA.EF\SoccerReservation.DATA.EF.csproj", "{E8B54C5D-5E13-4749-9A8F-54191E6A10B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE1270A-ED04-4BC2-BCBC-58188BEEFA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE1270A-ED04-4BC2-BCBC-58188BEEFA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE1270A-ED04-4BC2-BCBC-58188BEEFA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE1270A-ED04-4BC2-BCBC-58188BEEFA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8B54C5D-5E13-4749-9A8F-54191E6A10B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B54C5D-5E13-4749-9A8F-54191E6A10B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B54C5D-5E13-4749-9A8F-54191E6A10B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B54C5D-5E13-4749-9A8F-54191E6A10B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
